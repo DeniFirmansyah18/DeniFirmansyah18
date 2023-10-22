@@ -1,5 +1,5 @@
 ![reversal](https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20my%20profil&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&color=gradient&customColorList=0,2,2,5,30)
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlwcnlpd3ZjOHgzZXphOGtjN3picmV0czQ3ODBwZTU4YWQyemt2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif))
+![My Remote Image](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlwcnlpd3ZjOHgzZXphOGtjN3picmV0czQ3ODBwZTU4YWQyemt2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif)
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
