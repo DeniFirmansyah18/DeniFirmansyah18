@@ -4,11 +4,11 @@
 
 ### :man_technologist: About Me :
 I am a Programmer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- :telescope: I am a college student try to learning coding.
+- 🏫: I am a college student try to learning coding.
 
-- :seedling: Tech Enthusiast.
+- 💻: Tech Enthusiast.
 
-- :zap: In my free time, follow the discussion of a community on Facebook.
+- 📱: In my free time, follow the discussion of a community on Facebook.
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
